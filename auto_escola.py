@@ -55,7 +55,7 @@ else:
     print("Voce precisa fazer sua prova pratica ainda.")
 
 print("Obrigado pela preferencia.")
-print("********************************************************************")
+print("**********************************************************************")
 
 
 
